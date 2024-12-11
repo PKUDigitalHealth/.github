@@ -1,4 +1,4 @@
-## About Ours
+## About Us
 Our lab primarily focuses on the following two areas of research:
 
 - Deep learning for temporal medical data: temporal events, time series (e.g. longitudinal data, cohort, electronic health records), and physiological signals (e.g. ECG, EEG, PPG, PCG, PSG). We won the first place of the 18th PhysioNet/Computing in Cardiology Challenge, and released a DNN backbone Net1D. Currently working on learning in label scarce environment, generative methods, integrating with medical knowledge and other modality data (e.g. texts).
