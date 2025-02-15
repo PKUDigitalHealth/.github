@@ -5,6 +5,9 @@ Our lab primarily focuses on the following two areas of research:
 
 - Digital health: enhancing smart devices with AI and applications in healthcare, portable ECG device, flexible ECG patch, smart watch (with PPG/ECG sensor), smart ring (with PPG sensor), smart stethoscope (with PCG sensor), smart eyemask (with EEG sensor). Currently collaborating closely with affiliated hospitals of Peking University, working on smart devices for sleep disorders, cardiovascular disease, and fetal monitoring.
 
+## News
+We are recruiting PostDoc (Opening, Doctors of Public Health are also welcomed), Ph.D. (two positions available for 2026 at School of Intelligence Science Technology (SIST, 智能学院)), and Interns (Opening always) who have a strong passion for health data science with coding skills. If you are interested, please send email with your CV.
+
 <!--
 
 **Here are some ideas to get you started:**
