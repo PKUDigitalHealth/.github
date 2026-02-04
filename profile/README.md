@@ -7,6 +7,7 @@ Our lab primarily focuses on the following two areas of research:
 
 ## News
 [2026/02] 🔥 Try our latest ECG interpretation MLLM in ECG-R1 at [Code](https://github.com/PKUDigitalHealth/ECG-R1) and [Online Platform](https://ai.heartvoice.com.cn/ECG-R1).
+
 [2025/11] We are recruiting team members who have a strong passion of AI for digital health: 1) PostDoc (Opening) with clinical research methodology and writing skills, coding skills not required; 2) Ph.D. (Positions available for 2027 at School of Intelligence Science Technology (SIST, 智能学院)); 3) Research Assistant with proficient coding skills. If you are interested, please send an email with your CV attached.
 
 <!--
