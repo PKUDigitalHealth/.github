@@ -14,4 +14,4 @@ We are recruiting team members who have a strong passion of AI for digital healt
 - PostDoc with clinical research methodology and writing skills, coding skills not required
 
 ## News
-[2026/02] 🔥 Try our latest ECG interpretation MLLM in ECG-R1 at [Code](https://github.com/PKUDigitalHealth/ECG-R1) and [Online Platform](http://ai.heartvoice.com.cn/ECG-R1). Paper in [arXiv](https://arxiv.org/pdf/2602.04279)!
+[2026/05] 🔥 Try our latest ECG interpretation MLLM in ECG-R1 at [Code](https://github.com/PKUDigitalHealth/ECG-R1). Paper in [ICML 2026](https://arxiv.org/pdf/2602.04279)!
